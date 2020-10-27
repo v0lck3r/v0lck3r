@@ -15,3 +15,9 @@
 - 📫 How to reach me: 
     - Twitter : [@ourahali](https://twitter.com/ourahali)
     - Linkedin : [Oussama RAHALI](https://www.linkedin.com/in/oussama-rahali-7a4118193/)
+    
+- :smile: Check my acheivement on [ don't forget to respect me on it ] : 
+    - Hackthebox : [@V0clk3r](https://www.hackthebox.eu/profile/215119)
+ 
+- :cool: My blog : CTF writeups | stuff related to security ... 
+    - https://v0lck3r.github.io/
