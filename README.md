@@ -19,5 +19,3 @@
 - :smile: Check out my acheivement on: ~~ don't forget to leave a respect ^^ 
     - Hackthebox : [@V0clk3r](https://www.hackthebox.eu/profile/215119)
  
-- :cool: My blog : CTF writeups | stuff related to security ... 
-    - https://v0lck3r.github.io/
