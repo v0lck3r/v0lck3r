@@ -14,7 +14,6 @@
 
 
 - 📫 How to reach me: 
-    - Twitter : [@ourahali](https://twitter.com/ourahali)
     - Linkedin : [Oussama RAHALI](https://www.linkedin.com/in/oussama-rahali-7a4118193/)
     
 - :smile: Check out my acheivement on: ~~ don't forget to leave a respect ^^ 
