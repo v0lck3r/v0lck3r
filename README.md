@@ -1,10 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Yo0yo0! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/oussama-rahali-7a4118193/">Oussama RAHALI ~aka V0clk3r</a></b> .    
-    <br>Cyber Security Student , at INPT Morocco
-    <br>CTF player with <b>The_Slayers</b> team</br>
-    Head of CIT Cyber Security Cell [CCSC]</br><br>
+    Yo0yo0! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/oussama-rahali-7a4118193/">Oussama RAHALI ~aka V0clk3r</a></b>
 
 </samp>
 
