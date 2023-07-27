@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Yo0yo0! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/oussama-rahali-7a4118193/">Oussama RAHALI ~aka V0clk3r</a></b>
+    Yo0yo0! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/oussama-rahali-7a4118193/">Oussama RAHALI ~aka V0clk3r</a></b><br>
 
 </samp>
 
